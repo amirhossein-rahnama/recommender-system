@@ -1,0 +1,21 @@
+theme,input_song,input_artist,input_genre,output_song,output_artist,output_genre,mean
+hard_rock,back in black,ac/dc,"['hard_rock', 'rock']",everybody wants some!! - 2015 remaster,van halen,"['hard_rock', 'rock']",7.337837837837838
+dance,i wanna dance with somebody (who loves me),whitney houston,"['dance', 'pop']",the loco-motion,kylie minogue,"['dance', 'pop']",7.324324324324325
+synth_pop,you spin me round (like a record),dead or alive,"['pop', 'synth_pop']",talk talk - 1997 remaster,talk talk,"['pop', 'synth_pop']",7.148648648648648
+metal,kickstart my heart,mötley crüe,"['alt_rock', 'alternative', 'hard_rock', 'metal', 'rock']",eat the rich,motörhead,"['alt_rock', 'alternative', 'hard_rock', 'metal', 'rock']",6.972972972972973
+disco,i'm so excited,the pointer sisters,"['pop', 'rock', 'disco']",stay the night,billy ocean,"['disco', 'pop', 'rock', 'synth_pop']",6.783783783783784
+pop,take on me,a-ha,"['pop', 'rock', 'synth_pop']",satisfaction,laura branigan,"['pop', 'rock', 'synth_pop']",6.6891891891891895
+funk,purple rain,prince,"['funk', 'rock']",lavender - 2017 remaster,marillion,['rock'],6.581081081081081
+metal,the final countdown,europe,"['hard_rock', 'metal', 'rock', 'swedish']",alexander the great (356-323 b.c.) - 2015 remaster,iron maiden,"['hard_rock', 'metal', 'rock']",6.54054054054054
+synth_pop,never gonna give you up,rick astley,"['pop', 'rock', 'synth_pop']",summer rain,belinda carlisle,"['pop', 'rock', 'synth_pop']",6.527027027027027
+disco,flashdance...what a feeling - radio edit,irene cara,"['disco', 'pop', 'rock', 'synth_pop']",loverboy,billy ocean,"['disco', 'pop', 'rock', 'synth_pop']",6.45945945945946
+alt_rock,where is my mind? - remastered,pixies,"['alt_rock', 'alternative', 'rock']",rim of hell,d-a-d,"['alt_rock', 'alternative', 'rock']",6.22972972972973
+singer_songwriter,born in the u.s.a.,bruce springsteen,"['rock', 'singer_songwriter', 'songwriter']",waves of fear,lou reed,"['rock', 'singer_songwriter', 'songwriter']",6.121621621621622
+hard_rock,don't stop believin',journey,"['hard_rock', 'rock']",for those about to rock (we salute you),ac/dc,"['hard_rock', 'rock']",5.918918918918919
+singer_songwriter,sweet dreams (are made of this) - remastered,"eurythmics,annie lennox,dave stewart","['dance', 'pop', 'rock', 'singer_songwriter', 'songwriter', 'synth_pop']",west end girls - 2018 remaster,pet shop boys,"['dance', 'pop', 'rock', 'synth_pop']",5.824324324324325
+country,9 to 5,dolly parton,"['country', 'pop']",fire and smoke,earl thomas conley,"['country', 'pop']",5.77027027027027
+dance,like a virgin,madonna,"['dance', 'pop']",iko iko,cyndi lauper,"['dance', 'pop']",5.594594594594595
+punk,should i stay or should i go - remastered,the clash,"['alt_rock', 'alternative', 'punk', 'punk_rock', 'rock']",bring on the dancing horses,echo & the bunnymen,"['alt_rock', 'alternative', 'punk', 'punk_rock', 'rock']",5.364864864864865
+pop,beat it,michael jackson,['pop'],cambodia - single version,kim wilde,['pop'],5.013513513513513
+funk,burning down the house,talking heads,"['dance', 'funk', 'punk', 'punk-rock', 'rock']",we all stand - 2015 remaster,new order,"['dance', 'punk', 'punk_rock', 'rock']",4.891891891891892
+punk,there is a light that never goes out - 2011 remaster,the smiths,"['punk', 'punk_rock', 'rock']",viet nam,minutemen,"['punk', 'punk_rock', 'rock']",4.527027027027027
